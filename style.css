@@ -1,0 +1,84 @@
+.logo{
+    width: 100px;
+}
+.carousel-indicators [data-bs-target]{
+    background-color: orange;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    
+}
+.carousel-indicators .active {
+    opacity: 1;
+    width: 25px;
+    height: 9px;
+    border-radius: 12px;
+}
+.background{
+    height: 300px;
+    
+}
+.buy-now-button{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    padding: 7px 15px;
+}
+.img{
+    background-image: url("resources/bg-2.png");
+    background-repeat: no-repeat;
+    background-position:bottom;
+    background-position-x: 0px;
+    background-size: 100px 100px;
+    margin-bottom: 50px;
+ 
+}
+.color{
+    color: gray;
+}
+.or-color{
+    color: orange;
+}
+.card-img-top{
+    width: 200px;
+}
+.card{
+    align-items: center;
+    text-align: center;
+    box-shadow: 5px 5px 5px lightgray;
+}
+.bottom-margin{
+    margin-bottom: 50px;
+}
+.margin-bottom{
+    margin-bottom: 100px;
+}
+.cata-center{
+    text-align: center;
+
+}
+.middle{
+    width: 120px;
+    height: 1px;
+    border: 3px solid orange;
+    border-radius: 5px;
+    margin-left: 20px;
+}
+.img-box{
+    height: 220px;
+    width: 200px;
+    box-shadow: 5px 5px 40px lightgray;
+    border-radius: 10px;
+    
+
+}
+.img-size{
+    width: 80px;
+    margin-top: 10px;
+}
+footer p{
+    color: gray;
+    font-size: 12px;
+    text-align: center;
+}
